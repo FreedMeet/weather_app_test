@@ -1,0 +1,39 @@
+.cityCard {
+    margin-top: 10px;
+    margin-left: 12%;
+    margin-bottom: 15px;
+    width: 35%;
+    padding: 10px;
+    background-color: #fff1fe;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px 2px rgba(0, 0, 0, 0.2);
+}
+
+.cityCard_Header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cityCard_HeaderInfo__delete{
+    color: #c5c5c5;
+    margin-left: 15px;
+    padding-bottom: 20px;
+    cursor: pointer;
+}
+
+.cityCard_HeaderInfo{
+    display: flex;
+    align-items: center;
+}
+
+.cityCard_HeaderInfo img{
+    margin-right: 5px;
+    width: 32px;
+    background-color: #282c34;
+    border-radius: 50%;
+}
+.cityCard_InfoDate{
+    font-size: 22px;
+    margin-bottom: 20px;
+}

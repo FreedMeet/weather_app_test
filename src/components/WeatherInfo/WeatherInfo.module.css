@@ -1,0 +1,35 @@
+.cityCard_WeatherInfo {
+    display: flex;
+    justify-content: space-between;
+}
+.cityCard_WeatherInfo__temp div{
+    display: flex;
+}
+.cityCard_WeatherInfo__temp div>span {
+    font-size: 35px;
+    color: black;
+    margin-bottom: 10px;
+    display: flex;
+}
+.cityCard_WeatherInfo__temp div>p {
+    font-size: 16px;
+    color: #c5c5c5;
+    margin-left: 5px;
+}
+
+
+.cityCard_WeatherInfo__temp span {
+    color: #c5c5c5;
+    font-size: 16px;
+}
+
+.cityCard_WeatherInfo__another div{
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+.cityCard_WeatherInfo__another span{
+    color: #449de9;
+}
+
+

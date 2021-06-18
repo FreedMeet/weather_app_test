@@ -1,0 +1,26 @@
+.searchForm{
+    width: 40%;
+}
+
+.searchForm_Input{
+    width: 50%;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    box-shadow: 0 5px 10px 2px rgba(0, 0, 0, 0.2);
+    padding: 0 5px 0 5px;
+    font-size: 16px;
+    margin-right: 5%;
+}
+
+.searchForm_Button{
+    width: 20%;
+    box-shadow: 0 5px 10px 2px rgba(0, 0, 0, 0.2);
+    border: none;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #459de9;
+    color: #fff;
+    font-size: 16px;
+}

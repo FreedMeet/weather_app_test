@@ -1,0 +1,7 @@
+.cities {
+    display: flex;
+}
+.favorCities{
+    display: flex;
+    margin: 5px;
+}
